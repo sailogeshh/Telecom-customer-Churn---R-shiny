@@ -1,0 +1,13 @@
+name: customer-churn
+title: customer-churn
+username:
+account: seaport
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 410277
+bundleId: 2766012
+url: https://seaport.shinyapps.io/customer-churn/
+when: 1580465175.36149
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|Telco-Customer-Churn- original data - Copy.csv|tele.R|success2/app.R

@@ -1,0 +1,12 @@
+name: success
+title: success
+username:
+account: logesh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 415011
+bundleId: 1563989
+url: https://logesh.shinyapps.io/success/
+when: 1535735768.93219
+asMultiple: FALSE
+asStatic: FALSE
